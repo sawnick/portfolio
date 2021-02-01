@@ -39,7 +39,7 @@ function Navbar() {
                 </ul>
 
                 <footer className="footer">
-            </footer>
+                </footer>
             </nav>
             
         </div>

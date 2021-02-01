@@ -5,20 +5,20 @@ const portfolios = [
     {
         id: 1,
         category: 'Javascript',
-        link1: 'www.github.com',
-        link2: 'www.youtube.com',
+        link1: 'https://github.com/Leonvdk/salisali',
+        link2: 'https://salisali.netlify.app/index.html',
         icon1: 'G',
-        icon2: 'Y',
+        icon2: 'N',
         image: port1,
         title: 'Silasila'
     },
     {
         id: 2,
         category: 'ReactJS',
-        link1: 'www.github.com',
-        link2: 'www.youtube.com',
+        link1: 'https://github.com/Veganbite/Veganbite',
+        link2: 'https://veganbite.netlify.app',
         icon1: 'G',
-        icon2: 'Y',
+        icon2: 'N',
         image: port2,
         title: 'Veganbite'
     }

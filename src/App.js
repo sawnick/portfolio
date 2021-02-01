@@ -2,7 +2,7 @@ import './App.scss';
 import { useState } from 'react';
 import {Switch, Route} from 'react-router-dom';
 import Navbar from "./Components/Navbar";
-import HomePage from './Pages/HomePage';
+import HomePage from './Pages/Homepage';
 import AboutPage from './Pages/AboutPage';
 import PortfoliosPage from './Pages/PortfoliosPage';
 // import BlogsPage from './Pages/BlogsPage';
